@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndrodApk.iml" filepath="$PROJECT_DIR$/AndrodApk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndrodApk/AndrodApk-AndrodApk.iml" filepath="$PROJECT_DIR$/AndrodApk/AndrodApk-AndrodApk.iml" />
+    </modules>
+  </component>
+</project>
+
