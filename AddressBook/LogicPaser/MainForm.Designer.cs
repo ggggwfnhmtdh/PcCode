@@ -49,7 +49,7 @@ namespace AddressBook
             // StartBtn
             // 
             this.StartBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.StartBtn.BackColor = System.Drawing.Color.Red;
+            this.StartBtn.BackColor = System.Drawing.Color.Silver;
             this.StartBtn.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.StartBtn.Location = new System.Drawing.Point(962, 32);
             this.StartBtn.Name = "StartBtn";
@@ -152,7 +152,7 @@ namespace AddressBook
             // 按部门分组ToolStripMenuItem
             // 
             this.按部门分组ToolStripMenuItem.Name = "按部门分组ToolStripMenuItem";
-            this.按部门分组ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.按部门分组ToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.按部门分组ToolStripMenuItem.Text = "按部门分组";
             this.按部门分组ToolStripMenuItem.Click += new System.EventHandler(this.按部门分组ToolStripMenuItem_Click);
             // 
